@@ -1,16 +1,37 @@
-### Hi there 👋
+### 👋 Hello, I'm Lindsey
 
-<!--
-**ltjess/ltjess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Enrolled at UT Austin's Data Analysis and Visualization Boot Camp
 
-Here are some ideas to get you started:
+💼 Aspiring Data Analyst and Visualization Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Skills:
+- Excel Pivot tables and Forecasting 📈
+- VBA scripting 🖥️
+- Statistics modeling 📉
+- Python 3 🐍
+  - APIs 🌐
+  - NumPy 🔢
+  - SciPy 📚
+  - Pandas 🐼
+  - Matplotlib 📊
+- SQL 🗃️
+  - PostgreSQL/pgAdmin 🐘
+  - MongoDB 🍃
+  - Extract, Transform, Load (ETL) process 🔄
+- Web Development:
+  - HTML 🌐
+  - CSS 🎨
+  - Bootstrap framework 🅱️
+  - JavaScript charting 📈
+  - Geomapping with Leaflet.js 🗺️
+- Tableau 📊
+- Data ethics 🤖
+- Hadoop 🐘
+- Machine learning 🤖📈
+
+🔍 Passionate about extracting insights from data, creating visualizations, and building data-driven solutions. 
+
+🌟 Excited to collaborate, learn, and contribute to the data community.
+
+📧 Let's connect! https://www.linkedin.com/in/lindseytjessurun/
+
