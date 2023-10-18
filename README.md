@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Lindsey
+## 👋 Hi, I'm Lindsey! 
 
 🎓 Enrolled at UT Austin's Data Analysis and Visualization Boot Camp
 
