@@ -2,7 +2,7 @@
 
 🎓 Enrolled in UT Austin's Data Analysis and Visualization Boot Camp
 
-💼 Aspiring Data Analyst and Visualization Specialist
+💼 Aspiring SaaS Soultions Engineer
 
 📊 Skills:
 - Excel Pivot tables and Forecasting 📈
@@ -18,7 +18,7 @@
   - PostgreSQL/pgAdmin 🐘
   - MongoDB 🍃
   - Extract, Transform, Load (ETL) process 🔄
-- Web Development:
+- Web Development
   - HTML 🌐
   - CSS 🎨
   - Bootstrap framework 🅱️
@@ -28,7 +28,7 @@
 - Hadoop 🐘
 - Machine learning 🤖📈
 
-🔍 Passionate about extracting insights from data, creating visualizations, and building data-driven solutions. 
+🔍 Passionate about extracting insights from data, communicating big ideas, and building data-driven solutions. 
 
 🌟 Excited to collaborate, learn, and contribute to this online community.
 
