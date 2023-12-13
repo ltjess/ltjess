@@ -2,7 +2,7 @@
 
 🎓 Enrolled in UT Austin's Data Analysis and Visualization Boot Camp
 
-💼 Aspiring SaaS Soultions Engineer
+💼 Strategy & Operations | Data Analyst
 
 📊 Skills:
 - Excel Pivot tables and Forecasting 📈
